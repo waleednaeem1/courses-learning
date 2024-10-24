@@ -1,0 +1,20 @@
+<script src={{asset('assets/js/jquery.js')}}></script>
+<script src={{asset('assets/login/js/jquery.min.js')}}></script>
+<script src={{asset('assets/js/popper.min.js')}}></script>
+<script src={{asset('assets/js/bootstrap.min.js')}}></script>
+<script src={{asset('assets/js/wow.min.js')}}></script>
+<script src={{asset('assets/js/tilt.jquery.min.js')}}></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src={{asset('assets/js/owl.js')}}></script>
+<script src={{asset('assets/js/aos.js')}}></script>
+<script src={{asset('assets/js/sweetalert2.js')}}></script>
+<script src={{asset('assets/js/slick.js')}}></script>
+<script src={{asset('assets/js/jquery.barfiller.js')}}></script>
+<script src={{asset('assets/js/parallax-scroll.js')}}></script>
+<script src={{asset('assets/js/jquery.paroller.min.js')}}></script>
+<script src={{asset('assets/js/jquery.mCustomScrollbar.concat.min.js')}}></script>
+<script src={{asset('assets/js/side-demo.js')}}></script>
+<script src={{asset('assets/js/script.js')}}></script>
+<script src={{asset('assets/js/all.js?version=0.05')}}></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+ <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
